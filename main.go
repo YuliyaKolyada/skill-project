@@ -12,8 +12,7 @@ import (
 	"github.com/gorilla/mux"
 )
 
-const minResponseTime = 30
-const maxResponseTime = 2000
+
 
 const minConnectionStability = 600
 const maxConnectionStability = 1000
